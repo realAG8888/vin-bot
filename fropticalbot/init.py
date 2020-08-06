@@ -43,7 +43,7 @@ emil = 284072515746136064
 magg = 321039483577565187
 will = 662710804696793089
 
-devs = [ajay, haip]
+devs = [ajay, haip, emil]
 
 
 # Data Prep Function
