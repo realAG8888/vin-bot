@@ -627,4 +627,4 @@ async def earn_achievment(message, achievmentnum):
     await message.add_reaction('🎉')
 
 
-client.run('NzM3NDc1ODQxNzAwNzkwNDAy.Xx955g.6sHjKxxhb5g-CPXNSbGT_K8Ab-M')
+client.run('')
